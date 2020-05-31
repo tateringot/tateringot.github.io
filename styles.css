@@ -29,7 +29,7 @@ a {
     font-weight: bold;
 }
 a:visited {
-    color: slateblue;
+    color: blueviolet;
 }
 a:hover {
     text-decoration: underline;
