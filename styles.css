@@ -100,27 +100,28 @@ img {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 100%;
         padding-top: 10px;
+        padding: 5px;
         margin: 30px;
     }
     h1 {
-        font-size: 27pt;
+        font-size: 26pt;
     }
     .text {
-        width: 80%;
+        width: fit-content;
         padding: 0;
-        margin: 0;
-        margin-bottom: 20px;
+        margin: 20px;
+        margin-bottom: 25px;
     }
     .images {
-        margin: 20px;
-        padding: 20px;
-        padding-bottom: 0;
+        margin: 10px;
+        padding: 10px;
+        margin-top: 10px;
         width: fit-content;
     }
     .social {
         margin-bottom: 15px;
+        margin-top: 5px;
     }
 }
 /* Bonus Points? */
